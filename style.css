@@ -8,6 +8,12 @@ body{
     background: #57639e;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+}
+h2{
+    font-size: 2rem;
+    font-family: monospace;
+    color: aliceblue;
 }
 #emoji-btn{
     font-size: 3rem;
